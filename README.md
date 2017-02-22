@@ -1,13 +1,5 @@
-# Progsnap Python library
+# This project has moved!
 
-This is a Python library for reading [progsnap](https://cloudcoderdotorg.github.io/progsnap-spec) data.
+The Progsnap python library is now here: <https://github.com/cloudcoderdotorg/progsnap>
 
-[progsnap.py](progsnap.py) is the library.  Note that it is a Python 3 library: patches to support Python 2 would be gratefully accepted.
-
-The [examples](examples) directory has some example programs.
-
-All of the code is distributed under the [MIT license](https://opensource.org/licenses/MIT).
-
-## Contact
-
-Email questions/comments to <david.hovemeyer@gmail.com>
+The example programs now have their own repository: <https://github.com/cloudcoderdotorg/progsnap-examples>
